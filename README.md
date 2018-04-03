@@ -4,6 +4,8 @@
 
 > Most of it stolen from: https://www.reddit.com/r/ethOSdistro/comments/83wwt5/has_anyone_added_sgminergmx16r_to_ethos_success
 
+> Also consider the ethos dev build: http://update.ethosdistro.com/sources/sgminer-gm-5.5.6-x16r-ethos1
+
 ## Install
 
 ```
